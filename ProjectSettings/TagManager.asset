@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Tankard
   - Ground
+  - Table
   layers:
   - Default
   - TransparentFX
